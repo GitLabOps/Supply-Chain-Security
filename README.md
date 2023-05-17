@@ -4,6 +4,7 @@
 
 
 
+
 # Supply Chain Security
 
 # [![Glossary](./images/icons/glossary-icon.png)](/Glossary/GLOSSARY.md) **- Статьи по безопасности цепочкек поставок**
