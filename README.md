@@ -34,3 +34,4 @@
 
 
 # [![Articles](./images/icons/solutions-icon.png)](/Solutions/SOLUTIONS.md) **- Решения**
+
